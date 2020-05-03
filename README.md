@@ -1,7 +1,11 @@
-# web-1
-Mi primer web git
-Primer trabajo de eduonix
-Project Create a simple page using HTML wich should contain following contents:
+# web-3
+Curso numero tres de Eduonnix  CSS
 
 
-cambio dos 2
+tercer curso eduonix
+prueba 
+
+cambio realizado desde la web de github
+
+
+cambio numero 3 rrealizado desde mi computadora en la casa
